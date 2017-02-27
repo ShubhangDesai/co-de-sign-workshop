@@ -21,6 +21,7 @@ npm install
 ```
 # Component usage
 ## Card
+A Material Design card. Use this as a beautiful way to present some short information. Based off of Google's Material Design specs: https://material.io/guidelines/components/cards.html.
 ```
 <card title="{{cardTitle}}" content="{{cardContent}}" image="{{image}}"></card>
 ```
@@ -30,6 +31,7 @@ npm install
 
 `image` (optional): A relative path to an image which will be displayed in the card.
 ## Hero image
+An image which covers the entire viewport. Intended as the first element the user sees, so as to draw them in. An example can be seen here: http://www.fireworx.com/.
 ```
 <hero text="{{heroText}}" image="{{heroImage}}"></hero>
 ```
@@ -37,6 +39,7 @@ npm install
 
 `image`: A relative path to an image which will be the hero image.
 ## Jumbotron
+A rectangle of text with a very heavy title. Can be used to very effectively emphasize a point. Based off of Twitter's Bootstrap Jumbotron: https://v4-alpha.getbootstrap.com/components/jumbotron/.
 ```
 <jumbotron title="{{jumbotronTitle}}" content="{{jumbotronContent}}"></jumbotron>
 ```
@@ -44,6 +47,7 @@ npm install
 
 `content`: A string which will be displayed as the content of the jumbotron.
 ## Third
+An element which can be put in a row with two other similar elements, making a row of three. Uses the Rule of Thirds to convey short points in an appealing manner. An example can be found here: https://www.orestis.nl/.
 ```
 <third title="{{thirdTitle}}" content="{{thirdContent}}" image="{{thirdImage}}"></third>
 ```
@@ -53,6 +57,7 @@ npm install
 
 `image` (optional): A relative path to an image which will be displayed as the element's icon.
 ## Toolbar
+A toolbar, fixed at the top of the screen. Use this to provide navigation for your users.
 ```
 <toolbar header="{{toolbarHeader}}" links="toolbarLinks"></toolbar>
 ```
