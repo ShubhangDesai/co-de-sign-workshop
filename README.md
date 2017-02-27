@@ -21,7 +21,8 @@ npm install
 ```
 # Component usage
 ## Card
-```<card title="{{cardTitle}}" content="{{cardContent}}" image="{{image}}"></card>
+```
+<card title="{{cardTitle}}" content="{{cardContent}}" image="{{image}}"></card>
 ```
 `title`: A string which will be displayed as the title of the card.
 
@@ -29,19 +30,22 @@ npm install
 
 `image` (optional): A relative path to an image which will be displayed in the card.
 ## Hero image
-```<hero text="{{heroText}}" image="{{heroImage}}"></hero>
+```
+<hero text="{{heroText}}" image="{{heroImage}}"></hero>
 ```
 `text`: A string which will be displayed as the text on the hero image.
 
 `image`: A relative path to an image which will be the hero image.
 ## Jumbotron
-```<jumbotron title="{{jumbotronTitle}}" content="{{jumbotronContent}}"></jumbotron>
+```
+<jumbotron title="{{jumbotronTitle}}" content="{{jumbotronContent}}"></jumbotron>
 ```
 `title`: A string which will be displayed as the title of the jumbotron.
 
 `content`: A string which will be displayed as the content of the jumbotron.
 ## Third
-```<third title="{{thirdTitle}}" content="{{thirdContent}}" image="{{thirdImage}}"></third>
+```
+<third title="{{thirdTitle}}" content="{{thirdContent}}" image="{{thirdImage}}"></third>
 ```
 `title`: A string which will be displayed as the title of the third element.
 
@@ -49,7 +53,8 @@ npm install
 
 `image` (optional): A relative path to an image which will be displayed as the element's icon.
 ## Toolbar
-```<toolbar header="{{toolbarHeader}}" links="toolbarLinks"></toolbar>
+```
+<toolbar header="{{toolbarHeader}}" links="toolbarLinks"></toolbar>
 ```
 `header`: A string which will be displayed as the header of the toolbar.
 `links`: A JavaScript array of Objects representing each toolbar item. Each Object must have the properties:
