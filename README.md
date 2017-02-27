@@ -16,7 +16,7 @@ git clone https://github.com/ShubhangDesai/co-de-sign-workshop.git
 From the same terminal window, issue the following commands:
 
 ```
-cd co-de-sign
+cd co-de-sign-workshop
 npm install
 ```
 # Component usage
