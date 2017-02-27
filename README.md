@@ -13,7 +13,8 @@ In terminal, navigate to your desired directory and issue the following command:
 ## Install npm packages
 From the same terminal window, issue the following commands:
 
-`cd co-de-sign
-
-npm install`
+```
+cd co-de-sign
+npm install
+```
 # Component usage
