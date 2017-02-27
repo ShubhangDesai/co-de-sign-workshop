@@ -1,0 +1,17 @@
+.third {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.third-image {
+  width: 150px;
+  height: 150px;
+  background-repeat: no-repeat;
+}
+
+.third span {
+  text-align: center;
+  padding-left: 40px;
+  padding-right: 40px;
+}

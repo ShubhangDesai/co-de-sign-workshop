@@ -1,0 +1,40 @@
+.card {
+  border-radius: 5px;
+  box-shadow: 0 14px 28px #C4C4C4;
+}
+
+.card-img {
+  display: flex;
+  align-items: flex-end;
+
+  padding-left: 3%;
+  padding-bottom: 20px;
+  border-radius: 5px 5px 0px 0px;
+
+  width: 97%;
+  height: 250px;
+}
+
+.card-img h1 {
+  margin: 0px;
+  font-weight: 400;
+  color: white;
+}
+
+.card-content {
+  padding: 20px 40px 20px 20px;
+}
+
+.card-content h1 {
+  margin: 0px;
+  font-weight: 400;
+}
+
+.card-content p {
+  margin: 0px;
+  font-weight: 300;
+  padding-top: 10px;
+
+  text-align: justify;
+  line-height: 1.7em;
+}

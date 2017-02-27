@@ -1,0 +1,16 @@
+.hero {
+  width: 100%;
+  height: 100vh;
+  background: darkgrey no-repeat center;
+  background-size: cover;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.hero span {
+  font-size: 3em;
+  font-weight: 100;
+  color: white;
+}
