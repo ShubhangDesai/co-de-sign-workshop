@@ -60,6 +60,6 @@ npm install
 
 `links`: A JavaScript array of Objects representing each toolbar item. Each Object must have the properties:
 
-   `url`: The link which is navigated to when the item is clicked.
+⋅⋅⋅`url`: The link which is navigated to when the item is clicked.
 
-   `name`: The name that is displayed on the item.
+⋅⋅⋅`name`: The name that is displayed on the item.
