@@ -8,9 +8,9 @@ Follow the instructions to install npm onto your machine at this site: https://w
 Follow the instructions to install git onto your machine at this site: https://git-scm.com/downloads
 ## Clone this repo
 In terminal, navigate to your desired directory and issue the following command:
-'git clone https://github.com/ShubhangDesai/co-de-sign-workshop.git'
+`git clone https://github.com/ShubhangDesai/co-de-sign-workshop.git`
 ## Install npm packages
 From the same terminal window, issue the following commands:
-'cd co-de-sign'
-'npm install'
+`cd co-de-sign`
+`npm install`
 # Component usage
