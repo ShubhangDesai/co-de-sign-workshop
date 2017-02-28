@@ -11,6 +11,9 @@
   padding-bottom: 20px;
   border-radius: 5px 5px 0px 0px;
 
+  background: darkgrey no-repeat center;
+  background-size: cover;
+
   width: 97%;
   height: 250px;
 }
@@ -31,6 +34,7 @@
 }
 
 .card-content p {
+  word-wrap: break-word;
   margin: 0px;
   font-weight: 300;
   padding-top: 10px;

@@ -10,8 +10,9 @@
   background-repeat: no-repeat;
 }
 
-.third span {
+.third p {
   text-align: center;
   padding-left: 40px;
   padding-right: 40px;
+  word-wrap: break-word;
 }

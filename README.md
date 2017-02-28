@@ -19,6 +19,13 @@ From the same terminal window, issue the following commands:
 cd co-de-sign-workshop
 npm install
 ```
+## Run the server
+To view the site, issue the following command:
+
+```
+npm start
+```
+Then, navigate to http://localhost:8000 in your browser.
 # Component usage
 ## Card
 A Material Design card. Use this as a beautiful way to present some short information. Based off of Google's Material Design specs: https://material.io/guidelines/components/cards.html.
