@@ -3,7 +3,7 @@ Starter code for AngularJS dev workshop at Stanford, Winter 2017.
 
 # Getting started
 ## Install npm
-Follow the instructions to install npm onto your machine at this site: https://www.npmjs.com/package/download
+Follow the instructions to install npm onto your machine at this site: https://nodejs.org/en/download/
 ## Install git
 Follow the instructions to install git onto your machine at this site: https://git-scm.com/downloads
 ## Clone this repo
